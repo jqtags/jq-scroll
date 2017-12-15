@@ -1,0 +1,13 @@
+{
+    "name": "jqtags-jq-scroll",
+    "main": "jqtags.scroll.js",
+    "authors": ["Lalit Tanwar <lalit.tanwar07@gmail.com>"],
+    "description": "fancy scroll",
+    "keywords": ["pitana", "jquery"],
+    "dependencies": {
+        "webmodules-foo": ">=3.1.10",
+        "webmodules-jqtag": ">=0.0.0"
+    },
+    "license": "MIT",
+    "ignore": ["**/.*", "node_modules", "bower_components"]
+}

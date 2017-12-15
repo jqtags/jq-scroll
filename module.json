@@ -1,0 +1,11 @@
+{
+    "name": "jqtags/jq-scroll",
+    "jqtags/jq-scroll": {
+        "js": ["jqtags.scroll.js"],
+        "on": ["webmodules/jqtag", "webmodules/jquery"]
+    },
+    "jqtags/jq-scroll/test": {
+        "js": ["jqtags.scroll.test.js"],
+        "on": ["spamjs/view","jqtags/jq-scroll"]
+    }
+}
